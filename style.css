@@ -1,6 +1,6 @@
 body{
     display: flex;
-    background-color: hsl(60, 41%, 90%) ;
+    background-color: #FAFAF9 ;
     font-family: 'Sora', sans-serif;
 }
 
@@ -33,6 +33,7 @@ body{
     margin-bottom: 16px;
     font-size: 12px;
     cursor: pointer;
+    margin-left: 16xp;
 }
 
 #card button:hover{
@@ -44,6 +45,7 @@ body{
 #card h1{
     font-size: 18px;
     margin-bottom: 6px ;
+    margin-left: 16xp;
 }
 
 #card p{
