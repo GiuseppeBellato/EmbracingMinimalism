@@ -32,8 +32,15 @@ body{
     background-color: #E6D6FC ;
     margin-bottom: 16px;
     font-size: 12px;
+    cursor: pointer;
 }
 
+#card button:hover{
+    scale: 1.05;
+    color: #E6D6FC;
+    background-color: #883AE1;
+    transition-duration: .3s;
+} 
 #card h1{
     font-size: 18px;
     margin-bottom: 6px ;
